@@ -1,9 +1,9 @@
 
 Corona Virus App Tracker
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+In this App, it is a fully App COVID-19 Tracker. We used React, Charts.JS and Material UI.
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+By the end of this App, you will have a strong understanding of React's workflow and the use of hooks.
 
 API used: https://covid19.mathdro.id/api
 
